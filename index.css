@@ -1397,11 +1397,11 @@ body {
 }
 
 .news-extra-item {
-    width: calc(100% / 3);
+    width: calc(100% / 4);
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 8px;
+    padding: 1px;
 }
 
 @media screen and (max-width: 1024px) { /* 1025 - 1 */
